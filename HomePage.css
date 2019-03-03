@@ -1,0 +1,105 @@
+@charset "utf-8";
+	.st0
+{
+	border-style : Solid;
+	border-color : #000000;
+	border-color : rgba(0, 0, 0, 1);
+	border-width : 48px;
+	position : absolute ;
+	left : 168px;
+	top : 319px;
+	width : 827px;
+	height : 268px;
+}
+.st1
+{
+	background : #FFFFFF;
+	background : rgba(255, 255, 255, 1);
+	border-style : Solid;
+	border-color : #000000;
+	border-color : rgba(0, 0, 0, 1);
+	border-width : 1px;
+	position : absolute ;
+	left : 524px;
+	top : 384px;
+	width : 199px;
+	height : 199px;
+}
+.image1
+{
+	background-image : url(image1.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 69px;
+	top : 76px;
+	width : 95px;
+	height : 47px;
+}
+.st2
+{
+	background : #FFFFFF;
+	background : rgba(255, 255, 255, 1);
+	border-style : Solid;
+	border-color : #000000;
+	border-color : rgba(0, 0, 0, 1);
+	border-width : 1px;
+	position : absolute ;
+	left : 894px;
+	top : 190px;
+	width : 199px;
+	height : 199px;
+}
+.st3
+{
+	background : #FFFFFF;
+	background : rgba(255, 255, 255, 1);
+	border-style : Solid;
+	border-color : #000000;
+	border-color : rgba(0, 0, 0, 1);
+	border-width : 1px;
+	position : absolute ;
+	left : 1056px;
+	top : 18px;
+	width : 128px;
+	height : 50px;
+}
+.image
+{
+	background-image : url(image.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 57px;
+	top : 491px;
+	width : 243px;
+	height : 172px;
+}
+.st4
+{
+	background : #FFFFFF;
+	background : rgba(255, 255, 255, 1);
+	border-style : Solid;
+	border-color : #000000;
+	border-color : rgba(0, 0, 0, 1);
+	border-width : 1px;
+	position : absolute ;
+	left : 970px;
+	top : 18px;
+	width : 58px;
+	height : 50px;
+}
+.NormalCharacterStyle1
+{
+	font-family : Myriad Pro;
+	font-size : 36px;
+	line-height : 54px;
+	color : #000000;
+	color : rgb(0, 0, 0);
+}
+.NormalCharacterStyle
+{
+	font-family : Source Serif Variable;
+	font-size : 18px;
+	line-height : 14.4px;
+	color : #93278F;
+	color : rgb(147, 39, 143);
+}
